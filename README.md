@@ -1,15 +1,4 @@
-# Onboarding-UI-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/8615963/file/original-223481885e3939744705a8ca1874ecbd.png?compress=1&resize=2048x1536)
-
-  
-  <p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://youtu.be/4-GKgqIUBNo" target="_blank">Onboarding UI with Lottie Animations</a>
-    </p>
-    
-  </p>
   
 
 ## Get Started
@@ -40,8 +29,6 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 💙 If you like this project, give it a ⭐ and share it with friends!
 
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://twitter.com/codewithnomi_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
